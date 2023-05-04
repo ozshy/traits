@@ -1,6 +1,6 @@
 # traits
 
-Data and Stata code for a paper entitled: “Personality Traits and Financial Outcomes."
+Data, Stata code, and R code for a paper entitled: “Personality Traits and Financial Outcomes."
 
 By Claire Greene, Oz Shy, and Joanna Stavins
 
@@ -24,7 +24,7 @@ Instructions for the Stata files (all tables and regressions):
 
 2. Please download all files into a single directory on your computer.
 
-3. Don’t forget to reset the Working Directory.
+3. Don’t forget to reset the Working Directory: setwd("path"). For R-Studio users: Menu: Session: Set Working Directory.
 
 -----------------------------------------------------------
 
