@@ -18,7 +18,7 @@ Instructions for the Stata files (all tables and regressions):
 
 -----------------------------------------------------------
  
- Instructions for the R files (machine learning charts in the appendix):
+ Instructions for the R files (machine learning charts in Appendix A):
 
 1. There is one data file (rds) and one R code files (R).
 
